@@ -2,6 +2,12 @@
 
 [中文版](./README.zh-CN.md)
 
+## Online Demo
+
+- https://luqin.github.io/topology/main.html?type=1
+- https://luqin.github.io/topology/edit.html?type=1&id=8685
+- https://luqin.github.io/topology/edit.html?type=1&id=640
+
 ## Network Topology
 Network topologic structure is a diagram that consists of network node equipment and communication medium(from Baidu baike).
 
@@ -22,9 +28,7 @@ Edit Screenshot
 Mobile (iOS Safari)  
 ![mobile](./images/preview/mobile.png "Mobile (iOS Safari)")
 
-## Online Demo
-Resources will be loading after the page open, please be patient. Recommended use Google Chrome to browsing.  
-[Online Demo](https://zhaodabao.github.io/topology/main.html?type=1)
+
 
 ## Guide
 1. Because there are a lot of files in Topology, suggest to download ZIP(4.9M).
